@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+# - EL MOLGHY Chaker TS06 - M.ESCOUTE - 2018-2019 - Projet ISN - La DoubleFace - #
 from tkinter import *
 import main
 from random import choice
